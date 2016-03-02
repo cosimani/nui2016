@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>background.jpg</file>
+        <file>welcome.wav</file>
+        <file>smallLogo.png</file>
+        <file>world.png</file>
+        <file>info.png</file>
+        <file>diary.png</file>
+        <file>selected.wav</file>
+        <file>academic.png</file>
+        <file>chat.png</file>
+        <file>bars.png</file>
+    </qresource>
+</RCC>
